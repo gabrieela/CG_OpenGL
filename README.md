@@ -17,13 +17,13 @@ Descrição: Figuras 2D e transformações geométricas no ambiente OpenGL.
 ```bash
 
 # Clone o repositório
-$ git clone <https://github.com/gabrieela/CG_OpenGL.git>
+$ git clone https://github.com/gabrieela/CG_OpenGL.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd CG_OpenGL
 
 # Compile o arquivo, rodando o comando abaixo
-$ g++ projeto.cpp -o projeto -lglut -lGLU -lGL./projeto
+$ g++ projeto.cpp -o projeto -lglut -lGLU -lGL
 
 # Execute o arquivo, rodando o comando abaixo
 $ ./projeto

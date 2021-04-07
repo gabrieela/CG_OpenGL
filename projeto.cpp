@@ -19,7 +19,7 @@ void drawObject()
   glEnd();
 }
 
-/* Define o que será mostrado na tela a cor do fundo */
+/* Função responsável pela exibição */
 void display(void)
 {
   glClearColor(0.0, 0.0, 0.0, 0.0); // Fundo da tela com a cor preta

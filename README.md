@@ -19,6 +19,10 @@ Descrição: Figuras 2D e transformações geométricas no ambiente OpenGL.
 # Clone o repositório
 $ git clone https://github.com/gabrieela/CG_OpenGL.git
 
+# Execute os seguintes comandos
+$ sudo apt-get install freeglut3-dev
+$ sudo apt-get install libxmu-dev libxi-dev
+
 # Acesse a pasta do projeto no terminal/cmd
 $ cd CG_OpenGL
 
